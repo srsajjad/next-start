@@ -1,0 +1,13 @@
+.h1 {
+    color: pink;
+}
+
+.hamba {
+    background: #FCDDF6;
+}
+
+@media (max-width: 600px) {
+    .hamba {
+        background: #FFCACC;
+    }
+}
